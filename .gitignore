@@ -12,7 +12,6 @@ node_modules
 # next.js
 /.next/
 /out/
-dist
 
 # production
 /build
@@ -32,5 +31,3 @@ yarn-error.log*
 
 # vercel
 .vercel
-
-sanity_ecommerce
